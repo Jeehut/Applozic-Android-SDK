@@ -71,9 +71,6 @@
         <item>#2093cd</item>
         <item>#ad62a7</item>
     </array>
-    <dimen name="tile_letter_font_size">250dp</dimen>
-    <!-- The deafult tile size -->
-    <dimen name="letter_tile_size">64dp</dimen>
 
     <string name="contact_permission">Contact permission are needed to access</string>
     <string name="storage_permission">Storage permission are needed to access</string>
