@@ -61,16 +61,6 @@
     -->
     <string name="search_match_other">Matches Other Field</string>
     <string name="invite">Invite your friends</string>
-    <array name="alphabet_color">
-        <item>#f16364</item>
-        <item>#f58559</item>
-        <item>#f9a43e</item>
-        <item>#e4c62e</item>
-        <item>#67bf74</item>
-        <item>#59a2be</item>
-        <item>#2093cd</item>
-        <item>#ad62a7</item>
-    </array>
 
     <string name="contact_permission">Contact permission are needed to access</string>
     <string name="storage_permission">Storage permission are needed to access</string>
